@@ -1,0 +1,87 @@
+	*{padding: 0 ;margin: 0 ;font-family: "微软雅黑";}
+	
+	#d{
+				width: 400px;
+				height: 400px;
+				background:dodgerblue;
+				margin:  150px auto;
+				 opacity: 0.9;
+				
+			}
+    #top{
+    	 width: 400px;
+    	 height: 100px;
+    	 background:blue;
+    	 position: absolute;
+    	 left: 475px;
+    	 top: 50px;
+    	 color: black;
+    	 border-radius: 50px 50px 0 0 ;
+    	 font-size: 40px;
+    	 opacity: 0.9;
+    }
+    #btn{
+    	float: left;
+    	width: 130px;
+    	height: 43px;
+    
+    	outline: none;
+    	background:blue;
+    	border: 1px solid blue;
+    	font-size: 20px;
+    	position: relative;
+    	top: -2px;
+    }
+    #btn2{
+    	float: left;
+    	width: 130px;
+    	height: 43px;
+    	margin-left: 141px;
+    	outline: none;
+    	background:blue;
+    	border: 1px solid blue;
+    	
+    	font-size: 20px;
+    	position: relative;
+    	top: -45px;
+    }
+  #btn3{
+  	outline: none;
+  	float: left;
+    	width: 120px;
+    	height: 43px;
+    	position: relative;
+    	top: -45px;
+    	background:blue;
+    	border: 1px solid blue;
+    	color: red;
+    	font-size: 20px;
+    	
+  }
+   #ban{
+   	width: 200px;
+   	height: 50px;
+   	background:deepskyblue;
+   	position: absolute;
+   	z-index:100;
+   	left: 582px;
+   	top: 190px;
+   	display: none;
+   	text-align: center;
+   	font-size: 30px;
+   	line-height: 50px;
+   	border-radius: 10px;
+   }
+   html{
+   	background: url(../img/14364420K21940-24127.jpg)no-repeat;
+   	background-size:1349px 650px;
+   }
+   #tu{
+   	width: 80px;
+   	height: 80px;
+   	position: absolute;
+   	left: 450px;
+   	top: 20px;
+   	z-index: 10;
+   	transform: rotate(-30deg);
+   }
